@@ -1,0 +1,48 @@
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\appsettings.json
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Ticket System Task.exe
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Ticket System Task.deps.json
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Ticket System Task.runtimeconfig.json
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Ticket System Task.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Ticket System Task.pdb
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\Ticket System Task.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\Ticket System Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\Ticket System Task.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\Ticket System Task.AssemblyInfo.cs
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\Ticket System Task.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\Ticket System Task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\Ticket System Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\staticwebassets\msbuild.Ticket System Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket System Task.props
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket System Task.props
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket System Task.props
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\scopedcss\bundle\Ticket System Task.styles.css
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\Ticket S.E49230BC.Up2Date
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\Ticket System Task.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\refint\Ticket System Task.dll
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\Ticket System Task.pdb
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\Ticket System Task.genruntimeconfig.cache
+C:\Users\user\source\repos\TicketSystemTask\Ticket System Task\obj\Debug\net6.0\ref\Ticket System Task.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eDS9lgWh9WnzafWWbp6sSvhUyPFrpvt9PuvxXD9hxUc=",
+  "Source": "TicketSystemTask.Apis",
+  "BasePath": "_content/TicketSystemTask.Apis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
